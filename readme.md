@@ -27,7 +27,6 @@ FLASK_PROJECT/
 ├── requirement.txt # Project dependencies
 └── readme.md # Project documentation
 
-
 ---
 
 ## 📌 Project Overview
