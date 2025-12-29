@@ -6,7 +6,7 @@ The application predicts forest fire conditions based on weather parameters and 
 ---
 
 ## 📁 Project Structure
-
+```text
 FLASK_PROJECT/
 │
 ├── .ebextensions/
@@ -26,7 +26,7 @@ FLASK_PROJECT/
 ├── app.py # Main Flask application
 ├── requirement.txt # Project dependencies
 └── readme.md # Project documentation
-
+```
 ---
 
 ## 📌 Project Overview
